@@ -13,9 +13,6 @@ Busiest Days and Hours
     Busiest Days: The weekend, especially Saturday, sees the highest order volumes. 'Alcohol' peaks on Thursdays, and Wednesdays witness the fewest orders.
     Prime Ordering Hours: Orders peak between 9 AM and 4 PM.
 
-    <img width="486" alt="image" src="https://github.com/FE-3-79/python_grocery/assets/145100963/012982b0-e8a8-493a-a920-16d9011b9cb4">
-
-
 Customer Spending Habits
 
     Costliest Categories: 'Meat' and 'Fish' are the costliest categories. 'Produced' is the most ordered mid-priced category.
@@ -58,6 +55,4 @@ Recommendations
     Explore specific ordering patterns of loyal customers.
     Consider expanding distribution in the South region.
     Conduct a detailed analysis of each customer group to pinpoint differences.
-
-This analysis aims to guide strategic decisions for the sales and marketing teams based on a thorough understanding of customer behavior and preferences on the Instacart platform.
 
